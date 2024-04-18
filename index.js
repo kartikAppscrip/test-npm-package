@@ -1,4 +1,4 @@
-const helper = (data) => {
+const findTypeOfAnything = (data) => {
 	return typeof data
 }
-module.exports = helper
+module.exports = findTypeOfAnything
